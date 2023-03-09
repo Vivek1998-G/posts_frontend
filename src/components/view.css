@@ -1,0 +1,37 @@
+.view{
+    background-color:black;
+    padding: 100px;
+}
+.Vpost{
+    background-color:white;
+height:200px;
+width: 500px;
+color:black;
+border-radius: 10px;
+margin-left: 170px;
+margin-bottom: 70px;
+}
+h5{
+    margin-top: 20px;
+    color: blue;
+    margin-left: 40px;
+}
+
+span{
+    margin-left: 120px;
+    color: orangered;
+}
+
+#VT{
+    margin-left: 40px;
+   margin-bottom: 2px;
+   color:cadetblue;
+}
+#Vbtn{
+text-align: center;
+width: 110px;
+margin-left: 360px;
+}
+#Vh1{
+    color: white;
+}

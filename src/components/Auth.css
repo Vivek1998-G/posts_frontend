@@ -1,0 +1,33 @@
+.Add{
+    
+    padding:60px;
+    text-align: center;
+    background-color:black;
+}
+input{
+
+    height: 40px;
+    width:300px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+textarea{
+    height: 60px;
+    width:300px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+#AT{
+    color: white;
+}
+.midd{
+    margin-left: 160px;
+    width: 500px;
+    background-color:white;
+    border-radius: 20px;
+}
+#P{
+    padding: 25px;
+}
